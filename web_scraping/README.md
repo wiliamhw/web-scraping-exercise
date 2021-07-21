@@ -19,7 +19,7 @@ Rquirement: `pip install --user requests`
 
 
 ## 3. Parse HTML
-Filename: `parse_html.py`
+Filename: `parse_html.py`  
 Description:
 > Get some HTML elements from 
 > local HTML file or online website.  
@@ -33,7 +33,7 @@ pip install --user beautifulsoup4
 
 
 ## 4. Opening Search Results
-Filename: `searchpypi.py`
+Filename: `searchpypi.py`  
 Description:
 > Opens several search results.
 
