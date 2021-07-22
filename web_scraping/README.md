@@ -44,3 +44,13 @@ pip install --user requests
 pip install --user beautifulsoup4
 ```
 Input example: `python searchpypi.py faker`
+
+## 5. Selenium
+Filename: `selenium.py`
+Description:
+> Use selenium to scrape web
+Requirements:
+```
+pip install --user selenium
+<browser name> webdriver that has been put on the system PATH
+```
